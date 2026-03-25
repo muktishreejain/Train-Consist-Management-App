@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class TrainConsistApp {
+public class TrainApp {
 
     public static void main(String[] args) {
 
